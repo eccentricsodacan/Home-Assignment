@@ -20,8 +20,11 @@ Plotting a Histogram
 
 # Links used for the project
 https://neurosynth.org/
+
 https://nilearn.github.io/stable/auto_examples/00_tutorials/plot_nilearn_101.html#sphx-glr-auto-examples-00-tutorials-plot-nilearn-101-py
+
 https://medium.com/@jordan.l.edmunds/please-stop-hard-coding-file-paths-609c769f9537
+
 https://lukas-snoek.com/NI-edu/fMRI-introduction/week_1/python_for_mri.html
 
 
