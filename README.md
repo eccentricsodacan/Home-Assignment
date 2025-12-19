@@ -1,3 +1,5 @@
+Forked from Ama to create a pull request and send her a comment.
+
 # Home-Assignment
 This is my Assignment as part of my course Programming for Psychologists at Vrije Universiteit Amsterdam. 
 
